@@ -1,7 +1,7 @@
 # Exercise 2.1
 
 Create and run Kernighan and Ritchie's famous "hello, world" program
-'''c
+'''
 #include <stdio.h>
 
 int main (void)
