@@ -12,8 +12,8 @@ int main(void)
   return O;
 }
 ```
-(a) Identify the directives and statements in this progran1.
-(b) Wbat output Joes the prograo1 produce?
+(a) Identify the directives and statements in this program.
+(b) What output does the program produce?
 
 # Solution
 (a)
