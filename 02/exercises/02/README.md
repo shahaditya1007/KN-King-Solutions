@@ -12,7 +12,8 @@ int main(void)
   return O;
 }
 ```
-(a) Identify the directives and statements in this program.
+(a) Identify the directives and statements in this program?
+
 (b) What output does the program produce?
 
 # Solution
