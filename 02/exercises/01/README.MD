@@ -1,5 +1,14 @@
-Exercise 2.1
+# Exercise 2.1
 
 Create and run Kernighan and Ritchie's famous "hello, world" program
+'''c
+#include <stdio.h>
 
-#include <?
+int main (void)
+{
+  printf("hello, world\n");
+}
+'''
+Do you get a warning message from the compiler? If so, what's needed to make it go away?
+
+# Solution
