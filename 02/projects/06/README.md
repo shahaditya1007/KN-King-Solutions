@@ -10,4 +10,4 @@ for evaluating polynomials is known as ***Horner's Rule***.
 
 # Solution
 
-See 6.c
+See ```6.c```
