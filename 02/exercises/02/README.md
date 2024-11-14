@@ -25,4 +25,5 @@ The program produces the following output:
 Parkinson's Law:
 Works expands so as to fill the time
 available for its completion
+
 ```
