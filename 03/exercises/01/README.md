@@ -10,6 +10,9 @@ What output do the following calls of `printf` produce?
 # Solution
 
 (a) `    86, 1040`
+
 (b) `3.02530e+001`
+
 (c) `83.1620`
+
 (d) `1e-06`
