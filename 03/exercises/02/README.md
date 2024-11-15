@@ -9,7 +9,10 @@ Write calls of `printf` that display a `float` variable `x` in the following for
 
 # Solution
 
-(a) printf("%8.1e", x);
-(b) printf("%-10.6e", y);
-(c) printf("%8.3f", z);
-(d) printf("%-6f", p);
+(a) `printf("%8.1e", x);`
+
+(b) `printf("%-10.6e", y);`
+
+(c) `printf("%8.3f", z);`
+
+(d) `printf("%-6f", p);`
