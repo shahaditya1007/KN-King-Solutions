@@ -10,4 +10,4 @@ You entered the date 20110217
 
 # Solution
 
-See `3.c`
+See `1.c`
