@@ -1,3 +1,5 @@
+# Exercise 3.4
+
 Suppose that we call scanf as follows:
 
 ```c
