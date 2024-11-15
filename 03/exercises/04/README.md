@@ -9,10 +9,13 @@ what will be the values of `i`, `x` and `j` after the call? (Assume that `i` and
 
 # Solution
 
-`
+```
 i = 10
+
+
 x = 0.3
+
 j = 5
-`
+```
 
 `6` will be put back.
