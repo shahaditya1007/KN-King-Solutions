@@ -14,3 +14,5 @@ Item        Unit          Purchase
 The item number and date should be left justified; the unit price should be right justified. Allow dollar amounts up to $9999.99. Hint Use tabs to line up the columns.
 
 # Solution
+
+See `2.c`
